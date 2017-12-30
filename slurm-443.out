@@ -1,0 +1,9 @@
+rnk=1     dst=0rnk=1     dst=3rnk=1, sum=38
+Partition:9 7 6 
+rnk=2     dst=3rnk=2, sum=21
+Partition:8 4 9 
+Sending partition to 1...
+Sending partition to 2...
+rnk=0     dst=1rnk=0     dst=2slurmd[n0000]: error: *** JOB 443 CANCELLED AT 2017-09-30T17:53:31 ***
+mpirun: killing job...
+

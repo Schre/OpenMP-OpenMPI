@@ -1,0 +1,132 @@
+*********************************
+Start clock..
+Average time taken with p=1 and sqrt(elements)=8 : 0.01386s with comm time=0.01072s, comp time=0.00314s
+Start clock..
+Average time taken with p=2 and sqrt(elements)=8 : 0.02058s with comm time=0.01764s, comp time=0.00295s
+Start clock..
+Average time taken with p=4 and sqrt(elements)=8 : 0.02819s with comm time=0.02710s, comp time=0.00110s
+Start clock..
+Average time taken with p=8 and sqrt(elements)=8 : 0.06359s with comm time=0.06279s, comp time=0.00081s
+*******************************
+*********************************
+Start clock..
+Average time taken with p=1 and sqrt(elements)=16 : 0.02414s with comm time=0.01107s, comp time=0.01307s
+Start clock..
+Average time taken with p=2 and sqrt(elements)=16 : 0.02479s with comm time=0.01788s, comp time=0.00691s
+Start clock..
+Average time taken with p=4 and sqrt(elements)=16 : 0.02508s with comm time=0.02196s, comp time=0.00312s
+Start clock..
+Average time taken with p=8 and sqrt(elements)=16 : 0.02058s with comm time=0.01885s, comp time=0.00174s
+Start clock..
+Average time taken with p=16 and sqrt(elements)=16 : 0.31801s with comm time=0.31574s, comp time=0.00227s
+*******************************
+*********************************
+Start clock..
+Average time taken with p=1 and sqrt(elements)=32 : 0.06224s with comm time=0.01150s, comp time=0.05074s
+Start clock..
+Average time taken with p=2 and sqrt(elements)=32 : 0.04408s with comm time=0.01865s, comp time=0.02543s
+Start clock..
+Average time taken with p=4 and sqrt(elements)=32 : 0.03796s with comm time=0.02502s, comp time=0.01294s
+Start clock..
+Average time taken with p=8 and sqrt(elements)=32 : 0.03224s with comm time=0.02551s, comp time=0.00672s
+Start clock..
+Average time taken with p=16 and sqrt(elements)=32 : 0.37363s with comm time=0.36894s, comp time=0.00469s
+Start clock..
+Average time taken with p=32 and sqrt(elements)=32 : 0.29484s with comm time=0.29043s, comp time=0.00441s
+*******************************
+*********************************
+Start clock..
+Average time taken with p=1 and sqrt(elements)=64 : 0.21504s with comm time=0.01242s, comp time=0.20263s
+Start clock..
+Average time taken with p=2 and sqrt(elements)=64 : 0.12405s with comm time=0.02303s, comp time=0.10102s
+Start clock..
+Average time taken with p=4 and sqrt(elements)=64 : 0.09233s with comm time=0.04192s, comp time=0.05041s
+Start clock..
+Average time taken with p=8 and sqrt(elements)=64 : 0.06059s with comm time=0.03479s, comp time=0.02579s
+Start clock..
+Average time taken with p=16 and sqrt(elements)=64 : 0.34986s with comm time=0.33541s, comp time=0.01445s
+Start clock..
+Average time taken with p=32 and sqrt(elements)=64 : 0.30956s with comm time=0.30074s, comp time=0.00882s
+Start clock..
+Average time taken with p=64 and sqrt(elements)=64 : 0.22744s with comm time=0.22263s, comp time=0.00482s
+*******************************
+*********************************
+Start clock..
+Average time taken with p=1 and sqrt(elements)=128 : 0.81962s with comm time=0.01413s, comp time=0.80549s
+Start clock..
+Average time taken with p=2 and sqrt(elements)=128 : 0.42754s with comm time=0.02555s, comp time=0.40199s
+Start clock..
+Average time taken with p=4 and sqrt(elements)=128 : 0.24032s with comm time=0.03935s, comp time=0.20097s
+Start clock..
+Average time taken with p=8 and sqrt(elements)=128 : 0.12717s with comm time=0.02644s, comp time=0.10072s
+Start clock..
+Average time taken with p=16 and sqrt(elements)=128 : 0.37611s with comm time=0.32380s, comp time=0.05231s
+Start clock..
+Average time taken with p=32 and sqrt(elements)=128 : 0.38560s with comm time=0.35832s, comp time=0.02727s
+Start clock..
+Average time taken with p=64 and sqrt(elements)=128 : 0.80549s with comm time=0.78505s, comp time=0.02044s
+*******************************
+*********************************
+Start clock..
+Average time taken with p=1 and sqrt(elements)=256 : 3.23156s with comm time=0.01783s, comp time=3.21373s
+Start clock..
+Average time taken with p=2 and sqrt(elements)=256 : 1.64084s with comm time=0.02779s, comp time=1.61306s
+Start clock..
+Average time taken with p=4 and sqrt(elements)=256 : 0.84783s with comm time=0.04320s, comp time=0.80464s
+Start clock..
+Average time taken with p=8 and sqrt(elements)=256 : 0.45529s with comm time=0.05284s, comp time=0.40245s
+Start clock..
+Average time taken with p=16 and sqrt(elements)=256 : 0.51428s with comm time=0.30852s, comp time=0.20576s
+Start clock..
+Average time taken with p=32 and sqrt(elements)=256 : 0.47207s with comm time=0.36833s, comp time=0.10374s
+Start clock..
+Average time taken with p=64 and sqrt(elements)=256 : 0.74393s with comm time=0.69114s, comp time=0.05279s
+*******************************
+*********************************
+Start clock..
+Average time taken with p=1 and sqrt(elements)=512 : 12.88096s with comm time=0.02683s, comp time=12.85414s
+Start clock..
+Average time taken with p=2 and sqrt(elements)=512 : 6.47574s with comm time=0.03875s, comp time=6.43699s
+Start clock..
+Average time taken with p=4 and sqrt(elements)=512 : 3.27489s with comm time=0.05948s, comp time=3.21541s
+Start clock..
+Average time taken with p=8 and sqrt(elements)=512 : 1.70339s with comm time=0.09084s, comp time=1.61256s
+Start clock..
+Average time taken with p=16 and sqrt(elements)=512 : 1.15882s with comm time=0.35642s, comp time=0.80240s
+Start clock..
+Average time taken with p=32 and sqrt(elements)=512 : 0.75089s with comm time=0.34364s, comp time=0.40725s
+Start clock..
+Average time taken with p=64 and sqrt(elements)=512 : 0.44167s with comm time=0.23825s, comp time=0.20342s
+*******************************
+*********************************
+Start clock..
+Average time taken with p=1 and sqrt(elements)=1024 : 51.34935s with comm time=0.04294s, comp time=51.30641s
+Start clock..
+Average time taken with p=2 and sqrt(elements)=1024 : 25.77637s with comm time=0.06948s, comp time=25.70689s
+Start clock..
+Average time taken with p=4 and sqrt(elements)=1024 : 12.94438s with comm time=0.10235s, comp time=12.84203s
+Start clock..
+Average time taken with p=8 and sqrt(elements)=1024 : 6.47684s with comm time=0.04389s, comp time=6.43295s
+Start clock..
+Average time taken with p=16 and sqrt(elements)=1024 : 3.64055s with comm time=0.42972s, comp time=3.21083s
+Start clock..
+Average time taken with p=32 and sqrt(elements)=1024 : 2.03506s with comm time=0.43360s, comp time=1.60147s
+Start clock..
+Average time taken with p=64 and sqrt(elements)=1024 : 2.39038s with comm time=1.58501s, comp time=0.80537s
+*******************************
+*********************************
+Start clock..
+Average time taken with p=1 and sqrt(elements)=2048 : 206.62364s with comm time=0.26157s, comp time=206.36208s
+Start clock..
+Average time taken with p=2 and sqrt(elements)=2048 : 103.49760s with comm time=0.31703s, comp time=103.18057s
+Start clock..
+Average time taken with p=4 and sqrt(elements)=2048 : 51.66475s with comm time=0.15732s, comp time=51.50743s
+Start clock..
+Average time taken with p=8 and sqrt(elements)=2048 : 25.89198s with comm time=0.12672s, comp time=25.76527s
+Start clock..
+Average time taken with p=16 and sqrt(elements)=2048 : 13.41146s with comm time=0.52975s, comp time=12.88171s
+Start clock..
+Average time taken with p=32 and sqrt(elements)=2048 : 6.96831s with comm time=0.54072s, comp time=6.42760s
+Start clock..
+Average time taken with p=64 and sqrt(elements)=2048 : 5.70303s with comm time=2.48561s, comp time=3.21743s
+*******************************
