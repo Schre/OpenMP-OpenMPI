@@ -1,0 +1,5 @@
+#!/bin/sh
+for i in $(seq 2 64)
+do
+    mpirun -np $i ./ring.out 64 #10 elements
+done

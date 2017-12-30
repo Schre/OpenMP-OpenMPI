@@ -1,0 +1,1 @@
+slurmd[n0000]: error: execve(): /home/slurm/slurmd/job00026/slurm_script: Permission denied

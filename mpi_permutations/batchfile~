@@ -1,0 +1,2 @@
+#!/bin/sh
+mpirun -np 2 ./a.out 10 #10 elements
